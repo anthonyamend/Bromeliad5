@@ -1,0 +1,15 @@
+
+#remotes::install_github("ying14/yingtools2")
+require(yingtools2)
+library(tidyverse)
+library(ggplot2)
+library(vegan)
+library(reshape2)
+library(phyloseq)
+library(doBy)
+library(plotrix)
+library(ggpubr)
+library(ggh4x)
+# (Content truncated for preview in this comment block, but full text will be saved)
+# ...
+cat("PDF saved as labeled_2panel_figure.pdf\n")
